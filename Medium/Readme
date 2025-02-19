@@ -1,0 +1,18 @@
+"""
+# Card Collection
+
+## Problem Statement
+Implement a Card Collection system where cards can be shuffled and displayed.
+
+## Instructions
+- Compile: `javac CardCollection.java`
+- Run: `java CardCollection`
+
+## Sample Output
+```
+Before Shuffle:
+Card Collection: [Ace, King, Queen, Jack, 10, 9, 8]
+After Shuffle:
+Card Collection: [10, Ace, 9, Queen, 8, King, Jack]
+```
+"""
