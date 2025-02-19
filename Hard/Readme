@@ -10,11 +10,11 @@ Implement a Ticket Booking system using Java Multithreading.
 
 ## Sample Output
 ```
-Alice successfully booked a ticket.
-Bob successfully booked a ticket.
-Charlie successfully booked a ticket.
-David successfully booked a ticket.
-Eve successfully booked a ticket.
-No tickets available for Frank
+Aditya successfully booked a ticket.
+Biswa successfully booked a ticket.
+Chirag successfully booked a ticket.
+Depender successfully booked a ticket.
+Elisha successfully booked a ticket.
+No tickets available for Faizan
 ```
 """
