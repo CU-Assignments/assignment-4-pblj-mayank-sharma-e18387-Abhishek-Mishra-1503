@@ -1,0 +1,20 @@
+
+// README.md for Easy Level
+"""
+# Employee Management System
+
+## Problem Statement
+Implement an Employee Management system using Java Collections.
+
+## Instructions
+- Compile: `javac EmployeeManagement.java`
+- Run: `java EmployeeManagement`
+
+## Sample Output
+```
+Employee List:
+Employee {ID: 101, Name: Alice, Salary: 50000.0}
+Employee {ID: 102, Name: Bob, Salary: 60000.0}
+Employee {ID: 103, Name: Charlie, Salary: 55000.0}
+```
+"""
