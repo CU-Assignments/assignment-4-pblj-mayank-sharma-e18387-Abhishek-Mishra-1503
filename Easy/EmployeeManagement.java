@@ -20,9 +20,9 @@ class Employee {
 public class EmployeeManagement {
     public static void main(String[] args) {
         List<Employee> employees = new ArrayList<>();
-        employees.add(new Employee(101, "Alice", 50000));
-        employees.add(new Employee(102, "Bob", 60000));
-        employees.add(new Employee(103, "Charlie", 55000));
+        employees.add(new Employee(1, "Rohit", 50000));
+        employees.add(new Employee(2, "Arman", 60000));
+        employees.add(new Employee(3, "Depender", 55000));
 
         System.out.println("Employee List:");
         for (Employee emp : employees) {
