@@ -13,8 +13,8 @@ Implement an Employee Management system using Java Collections.
 ## Sample Output
 ```
 Employee List:
-Employee {ID: 101, Name: Alice, Salary: 50000.0}
-Employee {ID: 102, Name: Bob, Salary: 60000.0}
-Employee {ID: 103, Name: Charlie, Salary: 55000.0}
+Employee {ID: 1, Name: Rohit, Salary: 50000.0}
+Employee {ID: 2, Name: Arman, Salary: 60000.0}
+Employee {ID: 3, Name: Depender, Salary: 55000.0}
 ```
 """
