@@ -1,0 +1,20 @@
+"""
+# Ticket Booking System
+
+## Problem Statement
+Implement a Ticket Booking system using Java Multithreading.
+
+## Instructions
+- Compile: `javac Main.java`
+- Run: `java Main`
+
+## Sample Output
+```
+Alice successfully booked a ticket.
+Bob successfully booked a ticket.
+Charlie successfully booked a ticket.
+David successfully booked a ticket.
+Eve successfully booked a ticket.
+No tickets available for Frank
+```
+"""
