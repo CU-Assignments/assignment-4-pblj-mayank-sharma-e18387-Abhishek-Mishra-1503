@@ -33,12 +33,12 @@ class Passenger extends Thread {
 public class Main {
     public static void main(String[] args) {
         TicketBookingSystem system = new TicketBookingSystem();
-        Thread p1 = new Passenger(system, "Alice");
-        Thread p2 = new Passenger(system, "Bob");
-        Thread p3 = new Passenger(system, "Charlie");
-        Thread p4 = new Passenger(system, "David");
-        Thread p5 = new Passenger(system, "Eve");
-        Thread p6 = new Passenger(system, "Frank");
+        Thread p1 = new Passenger(system, "Aditya");
+        Thread p2 = new Passenger(system, "Biswa");
+        Thread p3 = new Passenger(system, "Chirag");
+        Thread p4 = new Passenger(system, "Depender");
+        Thread p5 = new Passenger(system, "Elisha");
+        Thread p6 = new Passenger(system, "Faizan");
 
         p1.start();
         p2.start();
